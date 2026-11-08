@@ -1,0 +1,5 @@
+CherryPro Legion Relay
+Published package 2026-11-08
+Contents: application source, scripts, migrations, public assets, server bindings,
+fusion worker, pinned libraries (node_modules), and the published server build
+under published/. Secrets are not included.
